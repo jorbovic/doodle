@@ -1,1 +1,7 @@
 # doodle
+.idea/
+
+data.pyc
+util.pyc
+
+venv/
